@@ -12,6 +12,4 @@ public class Solution {
         View view = new View();
         view.fireEventShowData();
     }
-
-
 }
